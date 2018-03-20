@@ -22,4 +22,3 @@ while True:
         break
     else:
         print("Please enter a number higher than 1.")
-#commit
